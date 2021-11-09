@@ -1,0 +1,5 @@
+1. a git egy fájl megosztó renszer 
+2. egyik sem jobb csak mind a 2 más igényeknek felel meg
+3.megosztott mert van maga a rendes repo és mindenkinek van külön saját repoja is
+4. tárol dolgokat
+5. git pull 
