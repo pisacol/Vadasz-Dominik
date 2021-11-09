@@ -1,0 +1,13 @@
+git clone (klónozása a saját repóba init és pull egyszerűsitése)
+git add (file hozzáadás)
+git status(le hivja a statust)
+git pull (le szedi a repobol a cuccot)
+git push (fel rakja a repoba a cuccot)
+
+git add teszt.html
+git commit -m valami
+git push
+
+git add valaszok.txt
+git commit -m valami
+git push
